@@ -16,7 +16,8 @@ const uglify = require('gulp-uglify');
 /*
 locations
 */
-const proxyUrl = 'http://localhost:8888/DeMuze/';
+// AAN TE PASSEN!!
+const proxyUrl = 'http://localhost:8888/Zwemzoo/';
 const root = './';
 
 const styleSRC = 'src/scss/main.scss';
